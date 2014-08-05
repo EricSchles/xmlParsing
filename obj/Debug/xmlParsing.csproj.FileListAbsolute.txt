@@ -1,0 +1,6 @@
+c:\users\eric\documents\visual studio 2012\Projects\xmlParsing\xmlParsing\bin\Debug\xmlParsing.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\xmlParsing\xmlParsing\bin\Debug\xmlParsing.exe
+c:\users\eric\documents\visual studio 2012\Projects\xmlParsing\xmlParsing\bin\Debug\xmlParsing.pdb
+c:\users\eric\documents\visual studio 2012\Projects\xmlParsing\xmlParsing\obj\Debug\xmlParsing.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2012\Projects\xmlParsing\xmlParsing\obj\Debug\xmlParsing.exe
+c:\users\eric\documents\visual studio 2012\Projects\xmlParsing\xmlParsing\obj\Debug\xmlParsing.pdb
